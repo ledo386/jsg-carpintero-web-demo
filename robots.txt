@@ -1,2 +1,3 @@
+# Permitir leer las directivas noindex de HTML y X-Robots-Tag.
 User-agent: *
-Disallow: /
+Allow: /
